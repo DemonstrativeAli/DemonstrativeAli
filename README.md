@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Ali%20Berkay&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Ali%20Berkay&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Data%20Scientist&descSize=18&descAlignY=55&descColor=8b949e" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+intelligent+systems+with+Python+%F0%9F%90%8D;Turning+data+into+actionable+insights+%F0%9F%93%8A;Exploring+the+frontiers+of+AI+%F0%9F%A4%96" alt="Typing SVG" /></a>
@@ -17,35 +17,35 @@
 
 ---
 
-## 🧑‍💻 Hakkımda
+## 🧑‍💻 About Me
 
 ```yaml
 name: Ali Berkay
 role: AI / ML Engineer & Data Scientist
-location: Türkiye 🇹🇷
-education: Bilgisayar Mühendisliği
+location: Turkey 🇹🇷
+education: Computer Engineering
 interests:
-  - Yapay Zeka & Makine Öğrenmesi
-  - Veri Bilimi & Analitik
-  - Full-Stack Web Geliştirme
-  - Mobil Uygulama Geliştirme
+  - Artificial Intelligence & Machine Learning
+  - Data Science & Analytics
+  - Web Development
+  - Mobile App Development
 currently_working_on: AI-powered applications & Data Science projects
-fun_fact: "Veriyi sanata dönüştürmeyi seviyorum 🎨📊"
+fun_fact: "I love turning data into art 🎨📊"
 ```
 
 ---
 
-## 🛠️ Teknoloji & Araçlar
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Programlama Dilleri
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 AI / ML & Veri Bilimi
+### 🤖 AI / ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -60,7 +60,7 @@ fun_fact: "Veriyi sanata dönüştürmeyi seviyorum 🎨📊"
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔧 Araçlar & Platformlar
+### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -70,7 +70,7 @@ fun_fact: "Veriyi sanata dönüştürmeyi seviyorum 🎨📊"
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -97,7 +97,7 @@ fun_fact: "Veriyi sanata dönüştürmeyi seviyorum 🎨📊"
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -118,7 +118,7 @@ fun_fact: "Veriyi sanata dönüştürmeyi seviyorum 🎨📊"
 
 ---
 
-## 🏆 GitHub Başarıları
+## 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -128,38 +128,38 @@ fun_fact: "Veriyi sanata dönüştürmeyi seviyorum 🎨📊"
 
 ---
 
-## 📈 Proje Yolculuğum
+## 📈 My Developer Journey
 
 ```mermaid
 timeline
-    title Ali Berkay — Geliştirici Yolculuğu
-    2021 : GitHub'a Katılım
-         : İlk adımlar & keşifler
+    title Ali Berkay — Developer Journey
+    2021 : Joined GitHub
+         : First steps & exploration
     2024 : libraryApp
-         : Mobil Kütüphane Uygulaması
-         : TRObject ile geliştirme
+         : Mobile Library Application
+         : Developed with TRObject
     2025-Q1 : Used Car Price Prediction
-            : ML destekli Java uygulaması
+            : ML-powered Java application
     2025-Q3 : GraphQL Flask Ariadne App
-            : Backend API geliştirme
+            : Backend API development
             : Telco Customer Churn Analysis
-            : Veri bilimi & analitik
+            : Data Science & Analytics
     2025-Q4 : Hakemly AI Referee App
-            : Yapay zeka hakem uygulaması
+            : AI-powered referee application
     2025-Q4 : KNN Bot & Sorting Lab
-            : ML algoritmaları & veri yapıları
+            : ML algorithms & data structures
     2026   : Nexus Parse AI
-           : Agentic AI mimarisi
-           : Gelişmiş veri analiz platformu
+           : Agentic AI architecture
+           : Advanced data analysis platform
 ```
 
 ---
 
-## 🎯 Odak Alanlarım
+## 🎯 Focus Areas
 
 <div align="center">
 
-| 🤖 **Yapay Zeka & ML** | 📊 **Veri Bilimi** | 🌐 **Web Geliştirme** | 📱 **Mobil** |
+| 🤖 **AI & ML** | 📊 **Data Science** | 🌐 **Web Development** | 📱 **Mobile** |
 |:---:|:---:|:---:|:---:|
 | KNN, Decision Trees | Pandas, NumPy | Flask, GraphQL | TRObject |
 | Scikit-Learn | Jupyter Notebooks | FastAPI, React | Mobile Apps |
@@ -182,15 +182,15 @@ timeline
 
 </div>
 
-> 💡 *Snake animasyonunu aktifleştirmek için [bu rehberi](https://github.com/Platane/snk) takip ederek GitHub Actions ile otomatik oluşturabilirsiniz.*
+> 💡 *To activate the snake animation, follow [this guide](https://github.com/Platane/snk) to set it up with GitHub Actions.*
 
 ---
 
 <div align="center">
 
-### 💬 Bana Ulaşın
+### 💬 Get in Touch
 
-*Projelerim hakkında soru sormak veya işbirliği yapmak isterseniz, GitHub üzerinden bana ulaşabilirsiniz!*
+*Feel free to reach out if you have questions about my projects or want to collaborate!*
 
 <br/>
 
