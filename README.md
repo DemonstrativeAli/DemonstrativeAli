@@ -160,9 +160,6 @@ timeline
 
 </div>
 
-> 💡 **Action Required:** If you see a broken image above, it means your GitHub Action hasn't generated the snake yet.
-> You must create a file at `.github/workflows/snake.yml` inside your `DemonstrativeAli` repo and run the workflow so the snake graphics are pushed to an `output` branch.
-
 ---
 
 <div align="center">
