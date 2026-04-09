@@ -31,7 +31,7 @@ interests:
   - Time-Series Forecasting & Quant Modeling
   - Data Science & Analytics
   - Backend Architecture
-currently_working_on: ARM-ARIMA & GRU Time-Series Engines
+currently_working_on: Hakemly, NexusParse AI projects
 fun_fact: "I love turning complex data into mathematical art 🎨📊"
 ```
 
